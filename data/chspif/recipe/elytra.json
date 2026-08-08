@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "aba",
+        "bcb",
+        "ddd"
+    ],
+    "key": {
+        "a":"string",
+        "b":"phantom_membrane",
+        "c":"nether_star",
+        "d":"netherite_ingot"
+    },
+    "category": "misc",
+    "result": {
+        "id":"elytra"
+    }
+}

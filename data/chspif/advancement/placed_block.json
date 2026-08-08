@@ -1,0 +1,22 @@
+{ 
+  "display": {
+    "icon": {
+      "id": "stone"
+    },
+    "title": "placed_block",
+    "description": "???",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "chspif:chspif",
+  "rewards": {
+    "function": "chspif:placed_block"
+  },
+  "criteria": {
+    "placed_block":{
+        "trigger": "placed_block"
+    }
+  }
+}
