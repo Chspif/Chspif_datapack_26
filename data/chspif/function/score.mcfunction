@@ -20,10 +20,6 @@ scoreboard objectives add placed_block dummy "放置方块"
 scoreboard objectives add gaming_time dummy "游戏时长"
 #展示榜单
 
-scoreboard objectives add smallfix trigger
-scoreboard objectives add fixkey dummy
-#检修用计分板
-
 team add fakeplayer ["死人"]
 team modify fakeplayer prefix ["[死人] "]
 team modify fakeplayer color blue
